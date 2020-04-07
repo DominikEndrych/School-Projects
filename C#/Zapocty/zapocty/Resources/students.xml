@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Student login="KOC0086">
+    <Points>44</Points>
+    <HasPassed>False</HasPassed>
+  </Student>
+  <Student login="HOL0430">
+    <Points>51</Points>
+    <HasPassed>True</HasPassed>
+  </Student>
+  <Student login="PET0093">
+    <Points>100</Points>
+    <HasPassed>True</HasPassed>
+  </Student>
+  <Student login="UZU0557">
+    <Points>83</Points>
+    <HasPassed>True</HasPassed>
+  </Student>
+  <Student login="UCH0001">
+    <Points>98</Points>
+    <HasPassed>True</HasPassed>
+  </Student>
+  <Student login="HUG0054">
+    <Points>31</Points>
+    <HasPassed>False</HasPassed>
+  </Student>
+  <Student login="ZAP0203">
+    <Points>39</Points>
+    <HasPassed>False</HasPassed>
+  </Student>
+  <Student login="TRK0230">
+    <Points>
+    </Points>
+    <HasPassed>False</HasPassed>
+  </Student>
+  <Student login="GLA0063">
+    <Points>64</Points>
+    <HasPassed>True</HasPassed>
+  </Student>
+  <Student login="MOR0502">
+    <Points>60</Points>
+    <HasPassed>True</HasPassed>
+  </Student>
+  <Student login="SAK0152">
+    <Points>42</Points>
+    <HasPassed>False</HasPassed>
+  </Student>
+  <Student login="HIN0227">
+    <Points>
+    </Points>
+    <HasPassed>False</HasPassed>
+  </Student>
+  <Student login="APU0012">
+    <Points>58</Points>
+    <HasPassed>True</HasPassed>
+  </Student>
+</root>
