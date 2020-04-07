@@ -1,14 +1,3 @@
-// ***********************************************************************
-//
-// Demo program for subject Computer Architectures and Paralel systems
-// Petr Olivka, Dept. of Computer Science, FEECS, VSB-TU Ostrava
-// email:petr.olivka@vsb.cz
-//
-// Threads programming example for Linux (11/2019)
-// For the propper testing is necessary to have at least 2 cores CPU
-//
-// ***********************************************************************
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
